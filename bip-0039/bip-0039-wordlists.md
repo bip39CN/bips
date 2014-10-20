@@ -3,6 +3,7 @@
 * [English](english.txt)
 * [Japanese](japanese.txt)
 * [Spanish](spanish.txt)
+* [Chinese](chinese.txt)
 
 ##Wordlists (Special Considerations)
 
